@@ -50,3 +50,4 @@ app.*.map.json
 *.json
 /web/
 /windows/
+firebase_options.dart
